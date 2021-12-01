@@ -1,9 +1,6 @@
 ### Hi there I'm backend developer using Node.js and Spring 👋
 - 🏫 Soongsil University - Software Engineering (Junior)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
-
 <!--
 **Song-EunJu/Song-EunJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
