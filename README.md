@@ -3,7 +3,7 @@
 ### ⚡ About Me ⚡
 
 🏫 Soongsil University - Software Engineering (Junior) <br>
-🌱 learning Backend_ Spring and Node.js <br>
+✏ Studying Backend_ Spring and Node.js <br>
 🦁 LIKELION 9th at Soongsil University (2021.03 ~ 2021.12) <br>
 🔥 [KUSITMS](https://cafe.naver.com/kusitms) 24rd Academic member (2021.09 ~ 2021.11) <br>
 
@@ -48,11 +48,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> 
 </p>
 
+#### Status
+
 </div>
 
-#### Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Song-EunJu&show_icons=true&theme=dark)
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jd06280)](https://solved.ac/jd06280)
 
