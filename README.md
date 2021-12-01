@@ -48,11 +48,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> 
 </p>
 
+</div>
+
 #### Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Song-EunJu&show_icons=true&theme=dark)
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jd06280)](https://solved.ac/jd06280)
 
-</div>
+
 
