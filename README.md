@@ -1,5 +1,6 @@
-### Hi there I'm backend developer using Node.js and Spring 👋
+### ⚡ About Me ⚡
 - 🏫 Soongsil University - Software Engineering (Junior)
+- 🌱 I’m currently learning Spring and Node.js
 
 <!--
 **Song-EunJu/Song-EunJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -44,10 +45,8 @@ Here are some ideas to get you started:
 #### Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Song-EunJu&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Song-EunJu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=jd06280)](https://solved.ac/jd06280)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jd06280)](https://solved.ac/jd06280)
 
 
 
