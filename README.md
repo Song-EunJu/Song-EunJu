@@ -1,11 +1,10 @@
 <div align="center">
-
 ### ⚡ About Me ⚡
 
 🏫 Soongsil University - Software Engineering (Junior) <br>
 ✏ Studying Backend_ Spring and Node.js <br>
 🦁 LIKELION 9th at Soongsil University (2021.03 ~ 2021.12) <br>
-🔥 [KUSITMS](https://cafe.naver.com/kusitms) 24rd Academic member (2021.09 ~ 2021.11) <br> <br> <br> 
+🔥 [KUSITMS](https://cafe.naver.com/kusitms) 24rd Academic member (2021.09 ~ 2021.11) <br> <br>
   
 <!--
 **Song-EunJu/Song-EunJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
