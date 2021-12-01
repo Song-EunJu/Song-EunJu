@@ -1,5 +1,5 @@
 <div align="center">
-### ⚡ About Me ⚡
+<h3 align="center">⚡ About Me ⚡</h3>
 
 🏫 Soongsil University - Software Engineering (Junior) <br>
 ✏ Studying Backend_ Spring and Node.js <br>
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💻 Tech Stack 💻
+<h3 align="center">💻 Tech Stack 💻</h3>
 #### Platforms & Languages
 
 <p>
