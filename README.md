@@ -2,7 +2,7 @@
 <h3 align="center">⚡ About Me ⚡</h3>
 
 🏫 Soongsil University - Software Engineering (Junior) <br>
-✏ Studying Backend_ Spring and Node.js <br>
+✏ Studying Backend Development <br>
 🦁 LIKELION 9th at Soongsil University (2021.03 ~ 2021.12) <br>
 🔥 [KUSITMS](https://cafe.naver.com/kusitms) 24th Academic member (2021.09 ~ 2021.11) <br> <br>
   
