@@ -6,7 +6,7 @@
 🦁 LIKELION 9th Member at Soongsil University (2021.03 ~ 2021.12) <br>
 🔥 [KUSITMS](https://cafe.naver.com/kusitms) 24th Academic Member _ Development Team (2021.09 ~ 2021.11) <br>
 🌊 [DND](https://dnd.ac/) 6th Backend Member (2022.01 ~ 2022.02) <br>
-🦁 LIKELION 10th Management at Soongsil University (2022.01 ~ 2022.12) <br>
+🦁 LIKELION 10th Backend Leader at Soongsil University (2022.01 ~ 2022.12) <br>
   
 <!--
 **Song-EunJu/Song-EunJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
