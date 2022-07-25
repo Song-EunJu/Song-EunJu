@@ -1,7 +1,7 @@
 <div align="center">
 <h3 align="center">⚡ About Me ⚡</h3>
 
-🏫 Soongsil University - Software Engineering (Senior) <br>
+🏫 Soongsil University - Software Engineering<br>
 ✏ Studying Backend Development <br>
 🦁 LIKELION 9th Member at Soongsil University (2021.03 ~ 2021.12) <br>
 🔥 [KUSITMS](https://cafe.naver.com/kusitms) 24th Academic Member _ Development Team (2021.09 ~ 2021.11) <br>
