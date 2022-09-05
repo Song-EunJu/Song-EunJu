@@ -3,9 +3,11 @@
 </div>
 
 # 송은주 *Song Eun Ju*
-👩‍💻 Backend Developer  
-🏫 Soongsil University, Software Engineering <br>
+<h3> 👩‍💻 Backend Developer  <br>
+🏫 Soongsil University, Software Engineering 
+</h3><br>
 
+<div>
 🦁 멋쟁이사자처럼 숭실대 9기 회원 (2021.03 ~ 2021.12) <br>
 🔥 [한국대학생IT경영학회](https://cafe.naver.com/kusitms) 24기 개발팀 학회원 (2021.09 ~ 2021.11) <br>
 🌊 [DND](https://dnd.ac/) 6기 백엔드 개발자(2022.01 ~ 2022.02) <br>
@@ -14,9 +16,12 @@
 🎈 유니톤 8, 9회 백엔드 개발자 (2022.03, 2022.08) <br>
 ☁ AUSG 6기 회원 (2022.06 ~ ) <br><br>
 👩‍💻그레이비랩 백엔드 개발 인턴 (2022.06 ~ 2022.08) <br>
-🚚아이마켓코리아 정보전략팀 인턴 (2022.09 ~ ) <br><br>
+🚚아이마켓코리아 정보전략팀 인턴 (2022.09 ~ ) <br>
+</div>
 
-<h3>💻 Tech Stack 💻</h3> 
+#
+
+<h3>💻 Tech Stack 💻</h3>
 
 #### Platforms & Languages
 
