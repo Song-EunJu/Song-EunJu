@@ -1,17 +1,23 @@
-🏫 Soongsil University - Software Engineering<br>
-✏ Studying Backend Development <br><br>
+<div>
+<img src="https://user-images.githubusercontent.com/61075048/188427657-cd0e1a48-51c1-4bac-9515-96f2a5c3ea5e.png" width="600" height="270"/>
+</div>
 
-🦁 LIKELION 9th Member at Soongsil University (2021.03 ~ 2021.12) <br>
-🔥 [KUSITMS](https://cafe.naver.com/kusitms) 24th Academic Member _ Development Team (2021.09 ~ 2021.11) <br>
-🌊 [DND](https://dnd.ac/) 6th Backend Member (2022.01 ~ 2022.02) <br>
-🦁 LIKELION 10th Backend Leader at Soongsil University (2022.01 ~ 2022.12) <br>
-🎮 LIKELION X Nexon MOD Supporters (2022.05 ~ 2022.09) <br>
-☁ AUSG 6th Member (2022.06 ~ ) <br>
-🎈 Unithon 8th, 9th Backend Developer <br>
+# 송은주 *Song Eun Ju*
+👩‍💻 Backend Developer  
+🏫 Soongsil University, Software Engineering <br>
 
+🦁 멋쟁이사자처럼 숭실대 9기 회원 (2021.03 ~ 2021.12) <br>
+🔥 [한국대학생IT경영학회](https://cafe.naver.com/kusitms) 24기 개발팀 학회원 (2021.09 ~ 2021.11) <br>
+🌊 [DND](https://dnd.ac/) 6기 백엔드 개발자(2022.01 ~ 2022.02) <br>
+🦁 멋쟁이사자처럼 숭실대 10기 백엔드 파트장 (2022.01 ~ 2022.12) <br>
+🎮 멋쟁이사자처럼 X 넥슨 MOD서포터즈 운영진 (2022.05 ~ 2022.08) <br>
+🎈 유니톤 8, 9회 백엔드 개발자 (2022.03, 2022.08) <br>
+☁ AUSG 6기 회원 (2022.06 ~ ) <br><br>
+👩‍💻그레이비랩 백엔드 개발 인턴 (2022.06 ~ 2022.08) <br>
+🚚아이마켓코리아 정보전략팀 인턴 (2022.09 ~ ) <br><br>
 
-<h3>💻 Tech Stack 💻</h3>
-  
+<h3>💻 Tech Stack 💻</h3> 
+
 #### Platforms & Languages
 
 <p>
@@ -34,7 +40,3 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> 
 </p>
 </div>
-#### Status
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Song-EunJu&show_icons=true&theme=dark) 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jd06280)](https://solved.ac/jd06280)
