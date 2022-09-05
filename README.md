@@ -1,9 +1,5 @@
-<div align="center">
-<h3 align="center">⚡ About Me ⚡</h3>
-
 🏫 Soongsil University - Software Engineering<br>
 ✏ Studying Backend Development <br><br>
-</div>
 
 🦁 LIKELION 9th Member at Soongsil University (2021.03 ~ 2021.12) <br>
 🔥 [KUSITMS](https://cafe.naver.com/kusitms) 24th Academic Member _ Development Team (2021.09 ~ 2021.11) <br>
@@ -14,9 +10,7 @@
 🎈 Unithon 8th, 9th Backend Developer <br>
 
 
-<div align="center">
-
-<h3 align="center">💻 Tech Stack 💻</h3>
+<h3>💻 Tech Stack 💻</h3>
   
 #### Platforms & Languages
 
@@ -44,4 +38,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Song-EunJu&show_icons=true&theme=dark) 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jd06280)](https://solved.ac/jd06280)
-</div>
