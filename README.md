@@ -2,28 +2,19 @@
 <h3 align="center">⚡ About Me ⚡</h3>
 
 🏫 Soongsil University - Software Engineering<br>
-✏ Studying Backend Development <br>
+✏ Studying Backend Development <br><br>
+</div>
+
 🦁 LIKELION 9th Member at Soongsil University (2021.03 ~ 2021.12) <br>
 🔥 [KUSITMS](https://cafe.naver.com/kusitms) 24th Academic Member _ Development Team (2021.09 ~ 2021.11) <br>
 🌊 [DND](https://dnd.ac/) 6th Backend Member (2022.01 ~ 2022.02) <br>
 🦁 LIKELION 10th Backend Leader at Soongsil University (2022.01 ~ 2022.12) <br>
 🎮 LIKELION X Nexon MOD Supporters (2022.05 ~ 2022.09) <br>
 ☁ AUSG 6th Member (2022.06 ~ ) <br>
+🎈 Unithon 8th, 9th Backend Developer <br>
 
-<!--
-**Song-EunJu/Song-EunJu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
 
 <h3 align="center">💻 Tech Stack 💻</h3>
   
@@ -48,7 +39,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> 
 </p>
-
+</div>
 #### Status
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Song-EunJu&show_icons=true&theme=dark) 
