@@ -7,6 +7,10 @@
 🏫 Soongsil University, Software Engineering 
 </h3><br>
 
+🍚삼시세끼 백엔드 개발자<br>
+https://litt.ly/samshisekki
+
+
 🦁 멋쟁이사자처럼 숭실대 9기 회원 (2021.03 ~ 2021.12) <br>
 🔥 [한국대학생IT경영학회](https://cafe.naver.com/kusitms) 24기 개발팀 학회원 (2021.09 ~ 2021.11) <br>
 🌊 [DND](https://dnd.ac/) 6기 백엔드 개발자(2022.01 ~ 2022.02) <br>
