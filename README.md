@@ -5,7 +5,7 @@
 # 송은주 *Song Eun Ju*
 <h3> 👩‍💻 Backend Developer  <br>
 🏫 Soongsil University, Software Engineering 
-</h3><br>
+</h3>
 
 🍚삼시세끼 백엔드 개발자<br>
 https://litt.ly/samshisekki
