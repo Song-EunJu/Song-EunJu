@@ -1,6 +1,6 @@
-<div>
+<!-- <div>
 <img src="https://user-images.githubusercontent.com/61075048/188427657-cd0e1a48-51c1-4bac-9515-96f2a5c3ea5e.png" width="600" height="270"/>
-</div>
+</div> -->
 
 # 송은주 *Song Eun Ju* <br> 
 <h3> ✨누군가의 꿈이 되는 삶을 살자✨ <br><br>
