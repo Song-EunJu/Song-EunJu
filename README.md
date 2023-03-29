@@ -6,7 +6,7 @@
 class SongEunJu {
     public static void main(String[] args){
         List<Activity> activities = Arrays.asList(
-            new Activity("멋쟁이사자처럼 숭실대 9기 회원"),
+            new Activity("멋쟁이사자처럼 숭실대 9기 수료"),
             new Activity("한국장학재단 대학생 재능봉사캠프 23기")
             new Activity("한국대학생IT경영학회 24기 백엔드 개발자"),
             new Activity("DND 6기 백엔드 개발자"),
@@ -15,7 +15,7 @@ class SongEunJu {
             new Activity("유니톤 8, 9회 백엔드 개발자"),
             new Activity("AUSG 6기")
             new Activity("KAKAO X GOORM 구름톤 3기 백엔드 개발자"),
-            new Activity("삼성 청년 SW아카데미 9기"),
+            new Activity("삼성 청년 SW 아카데미 9기"),
         );
 
         List<Conference> conferences = Arrays.asList(
