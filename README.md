@@ -1,24 +1,40 @@
-<!-- <div>
-<img src="https://user-images.githubusercontent.com/61075048/188427657-cd0e1a48-51c1-4bac-9515-96f2a5c3ea5e.png" width="600" height="270"/>
-</div> -->
-
 # 송은주 *Song Eun Ju* <br> 
-<h3> ✨누군가의 꿈이 되는 삶을 살자✨ <br><br>
-👩‍💻 Backend Developer  <br>
-🏫 Soongsil University, Software Engineering 
-</h3>
-<br>
-🍚삼시세끼 백엔드 개발자<br>
-https://litt.ly/samshisekki 
+<h3> 👩‍💻 Backend Developer <br>
+ 🏫 Soongsil University, Software Engineering </h3>
 
-<br>🦁 멋쟁이사자처럼 숭실대 9기 회원 (2021.03 ~ 2021.12) <br>
-🔥 [한국대학생IT경영학회](https://cafe.naver.com/kusitms) 24기 개발팀 학회원 (2021.09 ~ 2021.11) <br>
-🌊 [DND](https://dnd.ac/) 6기 백엔드 개발자(2022.01 ~ 2022.02) <br>
-🦁 멋쟁이사자처럼 숭실대 10기 백엔드 파트장 (2022.01 ~ 2022.12) <br>
-🎮 멋쟁이사자처럼 X 넥슨 MOD서포터즈 운영진 (2022.05 ~ 2022.08) <br>
-🎈 유니톤 8, 9회 백엔드 개발자 (2022.03, 2022.08) <br>
-☁ [AUSG](https://ausg.me/) 6기 회원 (2022.06 ~ ) <br>
-🍊 KAKAO X GOORM 구름톤 3기 백엔드 개발자 (2022.11) <br>
-🎁 [삼성 청년 SW아카데미](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 9기 (2023.01 ~ )<br><br>
-👩‍💻그레이비랩 백엔드 개발 인턴 (2022.06 ~ 2022.08) <br>
-🚚[아이마켓코리아](https://www.imarketkorea.com/) 정보전략팀 인턴 (2022.09 ~ 2022.12) <br>
+```java
+class SongEunJu {
+    public static void main(String[] args){
+        List<Activity> activities = Arrays.asList(
+            new Activity("멋쟁이사자처럼 숭실대 9기 회원"),
+            new Activity("한국장학재단 대학생 재능봉사캠프 23기")
+            new Activity("한국대학생IT경영학회 24기 백엔드 개발자"),
+            new Activity("DND 6기 백엔드 개발자"),
+            new Activity("멋쟁이사자처럼 숭실대 10기 백엔드 파트장"),
+            new Activity("멋쟁이사자처럼 X 넥슨 MOD서포터즈 운영진"),
+            new Activity("유니톤 8, 9회 백엔드 개발자"),
+            new Activity("AUSG 6기")
+            new Activity("KAKAO X GOORM 구름톤 3기 백엔드 개발자"),
+            new Activity("삼성 청년 SW아카데미 9기"),
+        );
+
+        List<Conference> conferences = Arrays.asList(
+            new Conference("AWS Community Day"),
+            new Conference("AWS Industry Week"),
+            new Conference("AWS re:Invent 2022"),
+        );
+
+        List<Company> companies = Arrays.asList(
+            new Company("그레이비랩 플랫폼개발팀 인턴", `finished`),
+            new Company("아이마켓코리아 정보전략팀 인턴", `finished`),
+            new Company("현대오토에버 어플리케이션 개발/운영")
+        );        
+        System.out.println("열심히 살자");
+    }
+ }
+```
+
+
+📨 대학생 메일 생성기 : 대설교메 http://mail-helper.com <br>
+😎 대학생 연합동아리 모음집 : 대설동모 http://dongari-collection.com/ <br>
+🗻 생일로 알아보는 나만의 오름 : 나영오름 https://nayeongoreum.vercel.app
