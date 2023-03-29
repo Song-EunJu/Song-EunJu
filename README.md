@@ -2,6 +2,8 @@
 <h3> 👩‍💻 Backend Developer <br>
  🏫 Soongsil University, Software Engineering </h3>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSong-EunJu&count_bg=%233FB5E7&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%ED%95%9C%EA%B1%B0+%EB%93%A4%EC%BC%B0+%EC%86%A1&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ```java
 class SongEunJu {
     public static void main(String[] args){
