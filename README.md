@@ -30,9 +30,8 @@ class SongEunJu {
         List<Company> companies = Arrays.asList(
             new Company("그레이비랩 플랫폼개발팀 인턴", `finished`),
             new Company("아이마켓코리아 정보전략팀 인턴", `finished`),
-            new Company("현대오토에버 어플리케이션 개발/운영")
+            new Company("현대오토에버 플랫폼엔지니어링개발팀", `now`)
         );        
-        System.out.println("열심히 살자");
     }
  }
 ```
