@@ -1,45 +1,20 @@
-# 송은주 *Song Eun Ju* <br> 
+## 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, 𝚂𝚘𝚗𝚐 𝙴𝚞𝚗 𝙹𝚞
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSong-EunJu&count_bg=%233FB5E7&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%ED%95%9C%EA%B1%B0+%EB%93%A4%EC%BC%B0+%EC%86%A1&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h3> 👩‍💻 Backend Developer <br><br>
- 🏫 Soongsil University, Software Engineering <br>
- 🚘 Hyundai AutoEver 
- </h3>
- 
- 
-```java
-class SongEunJu {
-    public static void main(String[] args){
-        List<Activity> activities = Arrays.asList(
-            new Activity("멋쟁이사자처럼 숭실대 9기 수료"),
-            new Activity("한국장학재단 대학생 재능봉사캠프 23기")
-            new Activity("한국대학생IT경영학회 24기 백엔드 개발자"),
-            new Activity("DND 6기 백엔드 개발자"),
-            new Activity("멋쟁이사자처럼 숭실대 10기 백엔드 파트장"),
-            new Activity("멋쟁이사자처럼 X 넥슨 MOD서포터즈 운영진"),
-            new Activity("유니톤 8, 9회 백엔드 개발자"),
-            new Activity("AUSG 6기")
-            new Activity("KAKAO X GOORM 구름톤 3기 백엔드 개발자"),
-            new Activity("삼성 청년 SW 아카데미 9기"),
-        );
+### 𝑾𝒐𝒓𝒌
+- 🚘 𝗛𝘆𝘂𝗻𝗱𝗮𝗶 𝗔𝘂𝘁𝗼𝗲𝘃𝗲𝗿 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗧𝗲𝗮𝗺 
+- 𝗂𝖬𝖺𝗋𝗄𝖾𝗍𝖪𝗈𝗋𝖾𝖺 𝖨𝗇𝖿𝗈𝗋𝗆𝖺𝗍𝗂𝗈𝗇 𝖲𝗍𝗋𝖺𝗍𝖾𝗀𝗒 𝖳𝖾𝖺𝗆
+- 𝖦𝗋𝖺𝗏𝗒𝖫𝖺𝖻 𝖯𝗅𝖺𝗍𝖿𝗈𝗋𝗆 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍 𝖳𝖾𝖺𝗆
 
-        List<Conference> conferences = Arrays.asList(
-            new Conference("AWS Community Day"),
-            new Conference("AWS Industry Week"),
-            new Conference("AWS re:Invent 2022"),
-        );
-
-        List<Company> companies = Arrays.asList(
-            new Company("그레이비랩 플랫폼개발팀 인턴", `finished`),
-            new Company("아이마켓코리아 정보전략팀 인턴", `finished`),
-            new Company("현대오토에버 플랫폼엔지니어링개발팀", `now`)
-        );        
-    }
- }
-```
-
-
-📨 대학생 메일 생성기 : 대설교메 http://mail-helper.com <br>
-😎 대학생 연합동아리 모음집 : 대설동모 http://dongari-collection.com/ <br>
-🗻 생일로 알아보는 나만의 오름 : 나영오름 https://nayeongoreum.vercel.app
+### 𝑨𝒄𝒕𝒊𝒗𝒊𝒕𝒚 
+- 𝖲𝖺𝗆𝗌𝗎𝗇𝗀 𝖲𝗐 𝖠𝖼𝖺𝖽𝖾𝗆𝗒 𝖥𝗈𝗋 𝖸𝗈𝗎𝗍𝗁 𝟫𝗍𝗁
+- 𝖪𝖠𝖪𝖠𝖮 𝖷 𝖦𝖮𝖮𝖱𝖬 𝟫𝗈𝗈𝗋𝗆𝗍𝗁𝗈𝗇 𝟥𝗋𝖽
+- 𝖠𝖴𝖲𝖦 𝟨𝗍𝗁
+- 𝖴𝗇𝗂𝗍𝗁𝗈𝗇 𝟪𝗍𝗁 𝖺𝗇𝖽 𝟫𝗍𝗁 𝗉𝖺𝗋𝗍𝗂𝖼𝗂𝗉𝖺𝗇𝗍𝗌
+- 𝖫𝗂𝗄𝖾𝗅𝗂𝗈𝗇 𝖷 𝖭𝖾𝗑𝗈𝗇 𝖬𝖮𝖣 𝖲𝗎𝗉𝗉𝗈𝗋𝗍𝖾𝗋𝗌 𝖬𝖺𝗇𝖺𝗀𝖾𝗆𝖾𝗇𝗍 𝖳𝖾𝖺𝗆
+- 𝖫𝗂𝗄𝖾𝗅𝗂𝗈𝗇 𝖲𝗈𝗈𝗇𝗀𝗌𝗂𝗅 𝟣𝟢𝗍𝗁 𝖡𝖺𝖼𝗄𝖾𝗇𝖽 𝗉𝖺𝗋𝗍 𝗅𝖾𝖺𝖽𝖾𝗋
+- 𝖣𝖭𝖣 𝟨𝗍𝗁
+- 𝖪𝗈𝗋𝖾𝖺𝗇 𝖴𝗇𝗂𝗏𝖾𝗋𝗌𝗂𝗍𝗒 𝖲𝗍𝗎𝖽𝖾𝗇𝗍𝗌 𝖨𝖳, 𝖬𝖺𝗇𝖺𝗀𝖾𝗆𝖾𝗇𝗍 𝖲𝗈𝖼𝗂𝖾𝗍𝗒 𝟤𝟦𝗍𝗁
+- 𝖪𝗈𝗋𝖾𝖺 𝖲𝖼𝗁𝗈𝗅𝖺𝗋𝗌𝗁𝗂𝗉 𝖥𝗈𝗎𝗇𝖽𝖺𝗍𝗂𝗈𝗇 - 𝖢𝗈𝗅𝗅𝖾𝗀𝖾 𝖲𝗍𝗎𝖽𝖾𝗇𝗍 𝖳𝖺𝗅𝖾𝗇𝗍 𝖵𝗈𝗅𝗎𝗇𝗍𝖾𝖾𝗋 𝖢𝖺𝗆𝗉 𝟤𝟥𝗋𝖽 
+- 𝖫𝗂𝗄𝖾𝗅𝗂𝗈𝗇 𝖲𝗈𝗈𝗇𝗀𝗌𝗂𝗅 𝟫𝗍𝗁
