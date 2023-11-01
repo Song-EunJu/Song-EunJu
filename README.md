@@ -20,6 +20,7 @@
 - 멋쟁이사자처럼 숭실대 9기 `2021.03 ~ 2021.12`
 
 ### 📚 𝐒𝐭𝐮𝐝𝐲
+- [Effective Java 스터디] (https://github.com/Yooa-Backend-Study/effective-java-book) `2023.10 ~ now`
 - [Java Live Study](https://github.com/Song-EunJu/java-study) `2023.09 ~ now`
 - [위대한 IT 영어 스터디](https://github.com/star-books-coffee/great-IT-english) `2023.09 ~ now`
 - [AWS 구조와 서비스 스터디](https://github.com/star-books-coffee/aws-structure-and-services) `2023.09 ~ now`
