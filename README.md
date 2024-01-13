@@ -1,13 +1,10 @@
-## 𝐁𝐚𝐜𝐤𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, 𝚂𝚘𝚗𝚐 𝙴𝚞𝚗 𝙹𝚞
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSong-EunJu&count_bg=%233FB5E7&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%ED%95%9C%EA%B1%B0+%EB%93%A4%EC%BC%B0+%EC%86%A1&edge_flat=false)](https://hits.seeyoufarm.com)
-
-### 🌊 𝐖𝐨𝐫𝐤
+![](chat.svg)
+### 이곳에서 일합니다.
 - <b>현대오토에버 플랫폼엔지니어링개발팀 `2023.04 ~ now`</b>
 - 아이마켓코리아 정보전략팀 인턴 `2022.09 ~ 2022.12`
 - 그레이비랩 플랫폼개발팀 인턴 `2022.06 ~ 2022.08`
 
-### 👻 𝐀𝐜𝐭𝐢𝐯𝐢𝐭𝐲
+### 이곳에서 활동합니다.
 - [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516) 9기 `2023.11 ~ now`
 - [삼성 청년 SW 아카데미](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 9기 `2023.01 ~ 2023.03`
 - [KAKAO X GOORM 구름톤](https://9oormthon.goorm.io/057520f2-f1e4-4150-ad65-527f16be9f2b) 3기 `2023.11`
@@ -19,3 +16,5 @@
 - [한국대학생IT경영학회](https://www.kusitms.com/) 24기 `2021.09 ~ 2021.11`
 - 한국장학재단 대학생 재능봉사캠프 23기 `2021.07`
 - 멋쟁이사자처럼 숭실대 9기 `2021.03 ~ 2021.12`
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSong-EunJu&count_bg=%233FB5E7&title_bg=%23000000&icon=ghostery.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%ED%95%9C%EA%B1%B0+%EB%93%A4%EC%BC%B0+%EC%86%A1&edge_flat=false)](https://hits.seeyoufarm.com)
