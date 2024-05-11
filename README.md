@@ -1,4 +1,7 @@
-![](chat.svg)
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Song-EunJu" height="240"/>
+</a>
+
 ## 이 곳에서 일합니다.
 - <b>현대오토에버 플랫폼엔지니어링개발팀 `2023.04 ~ now`</b>
 - 아이마켓코리아 정보전략팀 인턴 `2022.09 ~ 2022.12`
