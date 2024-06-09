@@ -12,7 +12,7 @@
     - [카프카는 타 MOM 시스템과 무엇이 다를까? (1)](https://developers.hyundaimotorgroup.com/blog/131)
 - [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516) 9기 `2023.11 ~ now`
 - [삼성 청년 SW 아카데미](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) 9기 `2023.01 ~ 2023.03`
-- [Kakao X Goorm 구름톤](https://9oormthon.goorm.io/057520f2-f1e4-4150-ad65-527f16be9f2b) 3기 `2023.11`
+- [Kakao X Goorm 구름톤](https://9oormthon.goorm.io/057520f2-f1e4-4150-ad65-527f16be9f2b) 3기 `2022.11`
 - [AUSG](https://ausg.me/) 6기 `2022.06 ~ 2023.03`
 - 유니톤 8, 9회 참가 `2022.03 / 2022.08`
 - 멋쟁이사자처럼 X 넥슨 MOD서포터즈 운영진 `2022.05 ~ 2022.08`
