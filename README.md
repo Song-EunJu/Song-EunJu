@@ -10,7 +10,7 @@
 - 그레이비랩 플랫폼개발팀 인턴 `2022.06 ~ 2022.08`
 
 ## 이 곳에서 활동합니다.
-- [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516) 10기 `2024.10 ~ now`
+- [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516) 10기 `2024.10 ~ 2025.03`
 - [HMG Developers Blog](https://developers.hyundaimotorgroup.com/) 필진 `2024.01 ~ 2024.06`
     - [카프카는 타 MOM 시스템과 무엇이 다를까? (1)](https://developers.hyundaimotorgroup.com/blog/131)
 - [글또](https://www.notion.so/ac5b18a482fb4df497d4e8257ad4d516) 9기 `2023.11 ~ 2024.05`
