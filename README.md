@@ -4,7 +4,7 @@
 
 ## 이 곳에서 일합니다.
 - <b>현대오토에버 플랫폼엔지니어링개발팀 `2023.04 ~ now`</b>
-  - Hmg-Commerce 백엔드 개발
+  - [FoD](https://commerce.hyundai.com/kr/ko/commerce/fod) 백엔드 개발
   - [아이케어노트](https://blog.naver.com/hyundai-autoever/223699068286]) TF 백엔드 개발
 - 아이마켓코리아 정보전략팀 인턴 `2022.09 ~ 2022.12`
 - 그레이비랩 플랫폼개발팀 인턴 `2022.06 ~ 2022.08`
